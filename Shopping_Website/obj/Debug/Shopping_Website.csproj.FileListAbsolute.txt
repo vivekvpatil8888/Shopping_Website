@@ -1,0 +1,14 @@
+C:\DotNet\Shopping_Website\Shopping_Website\bin\Shopping_Website.dll
+C:\DotNet\Shopping_Website\Shopping_Website\bin\Shopping_Website.pdb
+C:\DotNet\Shopping_Website\Shopping_Website\obj\Debug\Shopping_Website.dll
+C:\DotNet\Shopping_Website\Shopping_Website\obj\Debug\Shopping_Website.pdb
+E:\Shopping_Website\Shopping_Website\bin\Shopping_Website.dll
+E:\Shopping_Website\Shopping_Website\bin\Shopping_Website.pdb
+E:\Shopping_Website\Shopping_Website\obj\Debug\Shopping_Website.dll
+E:\Shopping_Website\Shopping_Website\obj\Debug\Shopping_Website.pdb
+E:\Shopping_Website\Shopping_Website\obj\Debug\Shopping_Website.csprojResolveAssemblyReference.cache
+C:\Users\Vivek Patil\Desktop\project\Shopping_Website\Shopping_Website\bin\Shopping_Website.dll
+C:\Users\Vivek Patil\Desktop\project\Shopping_Website\Shopping_Website\bin\Shopping_Website.pdb
+C:\Users\Vivek Patil\Desktop\project\Shopping_Website\Shopping_Website\obj\Debug\Shopping_Website.csprojResolveAssemblyReference.cache
+C:\Users\Vivek Patil\Desktop\project\Shopping_Website\Shopping_Website\obj\Debug\Shopping_Website.dll
+C:\Users\Vivek Patil\Desktop\project\Shopping_Website\Shopping_Website\obj\Debug\Shopping_Website.pdb
